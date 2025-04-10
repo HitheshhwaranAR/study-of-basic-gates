@@ -80,7 +80,8 @@ Y= A⊕B
 
 **WAVE FORM**
 
-![422891000-b42a8ac5-56d5-42bb-90bc-5bb3a542a8bb](https://github.com/user-attachments/assets/427dc3bd-b814-4ad2-bcd8-38601172f4c7)
+![image](https://github.com/user-attachments/assets/4242d2f2-8504-4f7c-b2b2-e05a5ba407ff)
+
 
 **Result:**
 
